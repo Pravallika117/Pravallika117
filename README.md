@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pravallika
-- 👀 I’m interested in Node JS.
+- 👀 I’m interested in Node JS, Cloud Computing, DevOps.
 - 🌱 I’m currently learning Kubernetes, Docker.
 
 <!---
